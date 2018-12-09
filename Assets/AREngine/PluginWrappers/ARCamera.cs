@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ARCamera : MonoBehaviour {
+	public string camName;
 
 	// Use this for initialization
 	void Start () {
